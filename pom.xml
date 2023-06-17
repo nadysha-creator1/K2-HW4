@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>pro.sky</groupId>
-    <artifactId>calculator2</artifactId>
+    <artifactId>calculator</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>calculator2</name>
     <description>calculator2</description>
